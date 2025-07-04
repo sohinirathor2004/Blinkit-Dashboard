@@ -1,6 +1,7 @@
 # 🛍️ BlinkIT Grocery Dashboard - Power BI Project
 
-![Dashboard Preview]([."C:\Users\dell\OneDrive\Pictures\Screenshots\dashboard image.png"))
+![Dashboard Preview]([."<img width="593" alt="dashboard image" src="https://github.com/user-attachments/assets/1d10f729-a45d-4544-ab29-b9e4740d4436" />
+"))
 
 This project presents a comprehensive **Power BI dashboard** designed to analyze grocery outlet performance and customer behavior data for **BlinkIT**, India's last-minute grocery delivery app.
 
