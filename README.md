@@ -40,15 +40,6 @@ To build an insightful and interactive dashboard that:
 - DAX (for calculated columns and measures)
 - Power Query (for data transformation and modeling)
 
-## 📂 Project Structure
-
-```
-📁 BlinkIT-Dashboard/
-│
-├── 📊 BlinkIT_Dashboard.pbix       # Power BI file
-├── 📷 Screenshot.png               # Dashboard preview
-├── 📄 README.md                    # Project documentation
-```
 
 ## 🚀 How to Use
 
